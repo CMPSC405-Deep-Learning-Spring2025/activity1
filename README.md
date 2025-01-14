@@ -2,6 +2,14 @@
 
 ## Due: 9am on January 17, 2025
 
+### Objectives
+
+- Build intuition for the structure and function of neural networks.
+- Understand how data flows through a network and is transformed by weights and activations.
+- Recognize the importance of tuning weights and model design in achieving meaningful results.
+
+### Tasks
+
 1. Working in a group of 2-3, select an application for a neural network and come up with a list of mock "features" (e.g., income, credit score, debt-to-income ratio).
 
 Example: A neural network must decide whether to approve loan applications with features including income, credit score, debt-to-income ratio.
@@ -32,5 +40,4 @@ Can you try to add another layer or modify your model and see its effects?
 
 6. Report 
 
-Following given prompts, report on the performance of your network and your reflection on the activity in the `writing/reflection.md`.
-
+Following given prompts, report on the performance of your network and your reflection on the activity in the `writing/reflection.md`. A single commit from one team member is sufficient as long as all team member names are included.
