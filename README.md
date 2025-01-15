@@ -18,10 +18,11 @@ Example: A neural network must decide whether to approve loan applications with 
    
 Build a mini neural network for your application:
 
-- Use sticky notes or cards for inputs (e.g., "feature 1: 2, feature 2: 5").
+- Use sticky notes or cards for inputs, weights, neurons.
 - Assign initial weights randomly.
-- Connect inputs to hidden neurons with "weights" written on cards/notes.
+- Connect inputs to hidden neurons with weights written on cards/notes.
 - Assign each neuron a simple activation function, such as a threshold (e.g., "Output 1 if sum > 5, else 0").
+- Showcase your physicl network to the instructor before moving on.
 
 2. Simulate Data Flow
    
@@ -34,9 +35,9 @@ Take turns performing calculations to simulate the network.
 4. Group Discussion and Refinement
    
 Discuss how your network performed. Did the network's output make sense?
-How could you adjust weights or activation functions to improve accuracy?
+How could you adjust weights or the activation function to improve accuracy?
 
-Can you try to add another layer or modify your model and see its effects?
+Can you try to add another layer or modify your model in some other way and see the effects of changes?
 
 6. Report 
 
