@@ -22,7 +22,7 @@ Build a mini neural network for your application:
 - Assign initial weights randomly.
 - Connect inputs to hidden neurons with weights written on cards/notes.
 - Assign each neuron a simple activation function, such as a threshold (e.g., "Output 1 if sum > 5, else 0").
-- Showcase your physicl network to the instructor before moving on.
+- Showcase your physical network to the instructor before moving on.
 
 2. Simulate Data Flow
    
