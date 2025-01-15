@@ -1,5 +1,9 @@
 ## Names: TODO
 
+### Neural Network
+
+Include a picture of your physical neural network.
+
 ### Performance
 
 Did the network's output make sense?
